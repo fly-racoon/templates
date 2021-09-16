@@ -1,0 +1,11 @@
+# Editors
+.idea
+.atom
+.vscode
+.code
+
+# OS Specific
+.DS_Store
+
+# Modules and installed packages
+node_modules
